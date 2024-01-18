@@ -1,1 +1,0 @@
-# TEMPLATE-sb-admin-2
